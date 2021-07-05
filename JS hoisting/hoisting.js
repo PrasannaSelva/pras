@@ -10,7 +10,7 @@ var a=10;
 
 
 
-
+x=a=a;
 
 
 
@@ -18,7 +18,7 @@ var a=10;
 //let a;
 //a=10;
 //let a=10;
-//console.log(a);
+console.log(a);
 //let a;
 //a=10;
 //let a=10;
